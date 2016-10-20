@@ -4,7 +4,7 @@ Used with ngrok to standup an external service that can be used as a mock webhoo
 
 start ngrok
 
-./ngrok 8081
+./ngrok http 8081
 
 start node
 
